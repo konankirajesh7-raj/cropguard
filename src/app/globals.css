@@ -73,7 +73,7 @@
   --secondary: var(--surface);
   --secondary-foreground: var(--text);
   --muted: #1a1f2e;
-  --muted-foreground: var(--muted);
+  --muted-foreground: #64748b;
   --accent: var(--green-dim);
   --accent-foreground: var(--text);
   --destructive: var(--red);
@@ -111,7 +111,7 @@
   --secondary: var(--surface);
   --secondary-foreground: var(--text);
   --muted: #1a1f2e;
-  --muted-foreground: var(--muted);
+  --muted-foreground: #64748b;
   --accent: var(--green-dim);
   --accent-foreground: var(--text);
   --destructive: var(--red);
